@@ -1,0 +1,29 @@
+ .show{
+    width:150px
+}
+
+.cartitem{
+    display:flex;
+     gap: 20px;
+     background: whitesmoke;
+     justify-content: space-around;
+     padding: 15px;
+     box-shadow: 2px 6px 2px silver;
+     margin: 20px;
+}
+
+
+
+.description{
+    display:flex;
+    align-items: center;
+    gap:20px
+
+}
+
+button{
+    border: none;
+}
+
+
+
